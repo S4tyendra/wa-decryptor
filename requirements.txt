@@ -1,0 +1,5 @@
+javaobj-py3
+pycryptodome
+python-multipart
+fastapi
+uvicorn
